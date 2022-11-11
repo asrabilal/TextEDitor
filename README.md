@@ -60,4 +60,4 @@
   - Deployed link:[HERE](https://editor.herokuapp.com/)
 
   ![](https://img.shields.io/badge/Created%20by-Asra%20Bilal%20-blue?style=for-the-badge)  
-![](https://img.shields.io/badge/Database-idb-yellow?style=flat-square&logo=concurrently)  ![](https://img.shields.io/badge/npm%20package-express-orange?style=flat-square&logo=npm) ![](https://img.shields.io/badge/npm%20package-mongoose-cyan?style=flat-square&logo=npm) ![](https://img.shields.io/badge/npm%20package-nodemon-%3CCOLOR%3E?style=flat-square&logo=npm)
+![](https://img.shields.io/badge/Database-idb-yellow?style=flat-square&logo)  ![](https://img.shields.io/badge/npm%20package-express-orange?style=flat-square&logo=npm) ![](https://img.shields.io/badge/npm%20package-concurrently-cyan?style=flat-square&logo=npm) ![](https://img.shields.io/badge/npm%20package-nodemon-%3CCOLOR%3E?style=flat-square&logo=npm)
